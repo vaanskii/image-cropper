@@ -18,6 +18,7 @@ body {
     background-color: #ffffff;
     padding: 2em 3em;
     border-radius: 0.5em;
+    margin-top:100px;
 }
 
 .container {
@@ -94,8 +95,8 @@ button {
 }
 
 .btns a {
-    border: 2px solid #025bee;
-    background-color: #025bee;
+    border: 2px solid #222;
+    background-color: #222;
     color: #ffffff;
     text-decoration: none;
     padding: 10px 20px; /* Adjusted padding */
